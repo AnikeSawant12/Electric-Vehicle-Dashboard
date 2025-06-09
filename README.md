@@ -1,4 +1,6 @@
 # Electric Vehicle Dashboard using Tableau
+![Electric Vehicle](https://github.com/user-attachments/assets/dff9d4bc-efc0-4780-8a0a-44fdb1a79f72)
+
 
 This project demonstrates building an interactive Electric Vehicle dashboard using Tableau Public. It covers the complete workflow, including importing datasets, creating visualizations like bar charts and maps, and assembling a polished dashboard for data-driven insights.
 
